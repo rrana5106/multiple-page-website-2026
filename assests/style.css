@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #e0e0e0;
+    position: sticky;
+    padding: 10px;
+}
+
+.nav-links{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav-links li{
+    list-style: none;
+}
+
+.nav-links li a{
+    text-decoration: none;
+}
+.nav-links li a:hover{
+    text-decoration: none;
+    color: red;
+}
+
+.hero{
+    background: #a0a0a0;
+    color: white;
+    text-align: center;
+    padding: 50px 50px;
+}
+
+footer{
+    text-align: center;
+    padding: 20px 20px;
+    background: #000;
+}
+
