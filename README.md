@@ -73,7 +73,7 @@ This website can be used as a beginner-friendly multi-page website template for 
 
 ### Live Website
 
-
+https://rrana5106.github.io/multiple-page-website-2026/
 
 ### Screenshot
 
@@ -207,8 +207,5 @@ This project can be deployed using GitHub Pages.
 
 The website will be available at:
 
-
-```text
-https://your-username.github.io/multi-page-responsive-website-2026/
-```
+https://rrana5106.github.io/multiple-page-website-2026/
 
