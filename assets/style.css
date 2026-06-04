@@ -145,6 +145,12 @@ main {
 
   flex: 1;
   max-width: 300px;
+  transition: all 0.3s ease;
+}
+
+.card:hover{
+  background: var(--primary-color);
+  color: var(--white-color);
 }
 
 /* Contact page */
