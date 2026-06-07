@@ -78,14 +78,6 @@ https://rrana5106.github.io/multiple-page-website-2026/
 
 ### Screenshot
 
-=======
-Add your GitHub Pages link here after deployment.
-https://rrana5106.github.io/multiple-page-website-2026/
-
-
-### Screenshot
-
-
 ![screenshot](./assets/images/home-page.png)
 ![screenshot](./assets/images/about-page.png)
 ![screenshot](./assets/images/projects-page.png)
