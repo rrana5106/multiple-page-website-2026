@@ -80,12 +80,11 @@ https://rrana5106.github.io/multiple-page-website-2026/
 
 =======
 Add your GitHub Pages link here after deployment.
+https://rrana5106.github.io/multiple-page-website-2026/
 
-```text
-https://your-github-pages-link-here
-```
 
 ### Screenshot
+
 
 ![screenshot](./assets/images/home-page.png)
 ![screenshot](./assets/images/about-page.png)
@@ -206,3 +205,4 @@ This project can be deployed using GitHub Pages.
 The website will be available at:
 
 https://rrana5106.github.io/multiple-page-website-2026/
+
