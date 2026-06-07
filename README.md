@@ -1,4 +1,5 @@
 # multiple-page-website-2026
+
 Assignment 2 for the Full Stack Web Development 2026 course, featuring multiple responsive web pages built with modern web technologies.
 
 # Multi-Page Responsive Website 2026
@@ -23,27 +24,27 @@ This project demonstrates how a website can be structured across multiple pages 
 
 Through this project, I learned:
 
-* Creating multi-page websites
-* Using Flexbox for layout and alignment
-* Working with CSS Variables
-* Styling forms and navigation menus
-* Using pseudo-classes and pseudo-elements
-* Responsive web design with media queries
-* Organising project files and folders
-* Creating reusable CSS styles
+- Creating multi-page websites
+- Using Flexbox for layout and alignment
+- Working with CSS Variables
+- Styling forms and navigation menus
+- Using pseudo-classes and pseudo-elements
+- Responsive web design with media queries
+- Organising project files and folders
+- Creating reusable CSS styles
 
 ---
 
 ## Table of Contents
 
-* [Installation](#installation)
-* [Usage](#usage)
-* [Features](#features)
-* [Credits](#credits)
-* [License](#license)
-* [Badges](#badges)
-* [How to Contribute](#how-to-contribute)
-* [Tests](#tests)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Features](#features)
+- [Credits](#credits)
+- [License](#license)
+- [Badges](#badges)
+- [How to Contribute](#how-to-contribute)
+- [Tests](#tests)
 
 ---
 
@@ -74,7 +75,6 @@ This website can be used as a beginner-friendly multi-page website template for 
 ### Live Website
 
 https://rrana5106.github.io/multiple-page-website-2026/
-<<<<<<< HEAD
 
 ### Screenshot
 
@@ -87,31 +87,28 @@ https://your-github-pages-link-here
 
 ### Screenshot
 
-
-
 ![screenshot](./assets/images/home-page.png)
 ![screenshot](./assets/images/about-page.png)
 ![screenshot](./assets/images/projects-page.png)
 ![screenshot](./assets/images/contact-page.png)
 
-
 ---
 
 ## Features
 
-* Multi-page website structure
-* Responsive navigation menu
-* Home page hero section
-* About page with profile information
-* Projects showcase section
-* Contact form
-* Flexbox layouts
-* CSS Variables
-* Hover effects
-* Pseudo-elements and pseudo-classes
-* Responsive design with media queries
-* Semantic HTML structure
-* Sticky footer layout
+- Multi-page website structure
+- Responsive navigation menu
+- Home page hero section
+- About page with profile information
+- Projects showcase section
+- Contact form
+- Flexbox layouts
+- CSS Variables
+- Hover effects
+- Pseudo-elements and pseudo-classes
+- Responsive design with media queries
+- Semantic HTML structure
+- Sticky footer layout
 
 ---
 
@@ -125,10 +122,10 @@ https://github.com/rrana5106
 
 ### Resources Used
 
-* MDN Web Docs
-* CSS Tricks Flexbox Guide
-* GitHub Documentation
-* Step8Up Bootcamp Learning Materials
+- MDN Web Docs
+- CSS Tricks Flexbox Guide
+- GitHub Documentation
+- Step8Up Bootcamp Learning Materials
 
 ---
 
@@ -161,11 +158,11 @@ No automated tests have been added yet.
 
 Manual testing was completed by:
 
-* Checking navigation links between pages
-* Testing responsive layouts on different screen sizes
-* Verifying hover effects and animations
-* Testing contact form inputs
-* Checking image and stylesheet paths
+- Checking navigation links between pages
+- Testing responsive layouts on different screen sizes
+- Verifying hover effects and animations
+- Testing contact form inputs
+- Checking image and stylesheet paths
 
 ---
 
@@ -201,12 +198,11 @@ This project can be deployed using GitHub Pages.
 2. Open repository settings
 3. Navigate to Pages
 4. Select:
+   - Branch: `main`
+   - Folder: `/root`
 
-   * Branch: `main`
-   * Folder: `/root`
 5. Save changes
 
 The website will be available at:
 
 https://rrana5106.github.io/multiple-page-website-2026/
-
